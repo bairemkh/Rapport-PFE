@@ -1,0 +1,74 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{List of Figures}{5}{}%
+\contentsline {chapter}{List of Tables}{6}{}%
+\contentsline {chapter}{Acronyms}{7}{}%
+\contentsline {chapter}{General introduction}{8}{}%
+\contentsline {chapter}{\numberline {1}Project overview}{9}{}%
+\contentsline {section}{Introduction}{9}{}%
+\contentsline {section}{\numberline {1.1}Hosting company presentation}{9}{}%
+\contentsline {section}{\numberline {1.2}General context of the project}{9}{}%
+\contentsline {section}{\numberline {1.3}Problematic}{10}{}%
+\contentsline {section}{\numberline {1.4}Study of the existing solutions}{10}{}%
+\contentsline {section}{\numberline {1.5}Proposed solution}{13}{}%
+\contentsline {section}{\numberline {1.6}Methodology process}{13}{}%
+\contentsline {subsection}{\numberline {1.6.1}Agile Methodology}{13}{}%
+\contentsline {subsection}{\numberline {1.6.2}Chosen Methodology: Scrum}{14}{}%
+\contentsline {subsection}{\numberline {1.6.3}Why SCRUM ?}{15}{}%
+\contentsline {subsection}{\numberline {1.6.4}Scrum team structure}{15}{}%
+\contentsline {chapter}{\numberline {2}Preliminary Analysis}{17}{}%
+\contentsline {section}{Introduction}{17}{}%
+\contentsline {section}{\numberline {2.1}Functional study}{17}{}%
+\contentsline {subsection}{\numberline {2.1.1}Identifying the system actor}{17}{}%
+\contentsline {subsection}{\numberline {2.1.2}Identifying functional requirements}{17}{}%
+\contentsline {subsection}{\numberline {2.1.3}Identifying non-functional requirements}{19}{}%
+\contentsline {subsection}{\numberline {2.1.4} Global Use case diagram}{20}{}%
+\contentsline {section}{\numberline {2.2}Project management using Scrum}{20}{}%
+\contentsline {subsection}{\numberline {2.2.1}Product backlog}{21}{}%
+\contentsline {subsection}{\numberline {2.2.2}Sprint Planning}{22}{}%
+\contentsline {section}{\numberline {2.3}Class diagram}{23}{}%
+\contentsline {section}{\numberline {2.4}Uni-world architectural conception}{23}{}%
+\contentsline {subsection}{\numberline {2.4.1}Physical architecture}{23}{}%
+\contentsline {subsection}{\numberline {2.4.2}Software architecture}{24}{}%
+\contentsline {section}{\numberline {2.5}Hardware resources}{24}{}%
+\contentsline {section}{\numberline {2.6}Work environment}{24}{}%
+\contentsline {section}{\numberline {2.7}Languages and Frameworks}{26}{}%
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\numberline {3}Sprint 1: Authentication and User management}{29}{}%
+\contentsline {section}{Introduction}{29}{}%
+\contentsline {section}{\numberline {3.0}Sprint Backlog}{29}{}%
+\contentsline {section}{\numberline {3.0} Analysis and conception}{30}{}%
+\contentsline {subsection}{\numberline {3.0.0}Use case diagrams}{30}{}%
+\contentsline {subsection}{\numberline {3.0.0}Use case textual descriptions}{31}{}%
+\contentsline {subsection}{\numberline {3.0.0}Sequences diagram}{33}{}%
+\contentsline {section}{\numberline {3.0}Realization}{35}{}%
+\contentsline {subsection}{\numberline {3.0.0}User sign-in and registration}{35}{}%
+\contentsline {subsection}{\numberline {3.0.0}Account management}{36}{}%
+\contentsline {subsection}{\numberline {3.0.0}Password restoration}{37}{}%
+\contentsline {section}{Conclusion}{38}{}%
+\contentsline {chapter}{\numberline {4}Sprint 2: Uni-match}{39}{}%
+\contentsline {section}{Introduction}{39}{}%
+\contentsline {section}{\numberline {4.0}Sprint Backlog}{39}{}%
+\contentsline {section}{\numberline {4.0} Analysis and conception}{40}{}%
+\contentsline {subsection}{\numberline {4.0.0}Use case diagrams}{40}{}%
+\contentsline {subsection}{\numberline {4.0.0}Use case textual descriptions}{41}{}%
+\contentsline {subsection}{\numberline {4.0.0}Sequences diagram}{43}{}%
+\contentsline {section}{\numberline {4.0}Realization}{45}{}%
+\contentsline {subsection}{\numberline {4.0.0}Uni-match feed and profiles browsing}{45}{}%
+\contentsline {subsection}{\numberline {4.0.0}Messaging features}{45}{}%
+\contentsline {subsection}{\numberline {4.0.0}Likes Management}{46}{}%
+\contentsline {subsection}{\numberline {4.0.0}Filtering Management}{47}{}%
+\contentsline {section}{Conclusion}{47}{}%
+\contentsline {chapter}{\numberline {5}Sprint 3: Uni-carpool}{48}{}%
+\contentsline {section}{Introduction}{48}{}%
+\contentsline {section}{\numberline {5.0}Sprint Backlog}{48}{}%
+\contentsline {section}{\numberline {5.0} Analysis and conception}{49}{}%
+\contentsline {subsection}{\numberline {5.0.0}Use case diagram}{49}{}%
+\contentsline {subsection}{\numberline {5.0.0}Use case textual descriptions}{50}{}%
+\contentsline {subsection}{\numberline {5.0.0}Sequences diagram}{52}{}%
+\contentsline {section}{\numberline {5.0}Realization}{54}{}%
+\contentsline {subsection}{\numberline {5.0.0}Uni-carpool feed and offers browsing}{54}{}%
+\contentsline {subsection}{\numberline {5.0.0}Adding offers}{54}{}%
+\contentsline {subsection}{\numberline {5.0.0}Offers management}{55}{}%
+\contentsline {subsection}{\numberline {5.0.0}Messaging features}{55}{}%
+\contentsline {subsection}{\numberline {5.0.0}Filtering Management}{56}{}%
+\contentsline {section}{Conclusion}{57}{}%
